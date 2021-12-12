@@ -2,7 +2,7 @@
 
 ## 🥇 The best Blockchain based platform to check gold tradability. 📃
 
-![landing page](./public/tradabletheme.JPG)
+![landing page](./public/tradabletheme.jpg)
 
 ## Survey
 
